@@ -1,3 +1,0 @@
-cd /home/asen/workspace/Intro_Java_Homework/src
-javac P6_SumTwoNumbers.java
-java P6_SumTwoNumbers
