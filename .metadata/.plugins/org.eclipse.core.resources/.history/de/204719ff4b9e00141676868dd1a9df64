@@ -1,7 +1,0 @@
-
-public class P1_PrintYourHometown {
-	public static void main (String[] args) {
-		System.out.println("Sofia");
-	}
-
-}
