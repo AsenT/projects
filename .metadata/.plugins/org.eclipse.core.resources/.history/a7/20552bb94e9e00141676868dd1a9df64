@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+
+public class P6_SumTwoNumbers {
+
+	public static void main(String[] args) {
+		
+		Scanner firstNumber = new Scanner(System.in);
+
+	}
+
+}

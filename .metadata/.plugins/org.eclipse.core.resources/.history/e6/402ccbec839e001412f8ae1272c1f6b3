@@ -1,0 +1,16 @@
+import com.itextpdf.text.Document;
+import com.itextpdf.text.pdf.PdfWriter;
+
+
+public class P9_CardsPdf {
+
+	public static void main(String[] args) {
+		
+		
+		Document document = new Document();
+		PdfWriter.getInstance(document,  new FileOutputStream("CardsPdf.pdf"));
+		document.open();
+
+	}
+
+}

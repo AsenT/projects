@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Document"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfWriter"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfPTable"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.BaseFont"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Font"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.BaseColor"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Paragraph"/>
+</qualifiedTypeNameHistroy>

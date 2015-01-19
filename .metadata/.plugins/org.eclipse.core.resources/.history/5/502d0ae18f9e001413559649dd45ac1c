@@ -1,0 +1,32 @@
+import java.io.FileOutputStream;
+import java.io.IOException;
+
+import com.itextpdf.text.Document;
+import com.itextpdf.text.DocumentException;
+import com.itextpdf.text.pdf.BaseFont;
+import com.itextpdf.text.pdf.PdfPTable;
+import com.itextpdf.text.pdf.PdfWriter;
+
+
+public class P9_CardsPdf {
+
+	public static void main(String[] args) throws DocumentException, IOException {
+		
+		
+		Document document = new Document();
+		PdfWriter.getInstance(document, new FileOutputStream("CardsPdf.pdf"));
+		document.open();
+		
+		PdfPTable table = new PdfPTable(4);
+		table.setWidthPercentage(100);
+		table.getDefaultCell().setFixedHeight(180);
+		
+		//BaseFont baseFont = BaseFont.createFont("times.ttf",BaseFont.IDENTITY_H,true);
+		
+		
+		
+		
+
+	}
+
+}

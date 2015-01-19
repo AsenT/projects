@@ -1,0 +1,7 @@
+before running on the terminal, change the path of the .jar file.
+
+Example:
+
+java -jar /home/asen/workspace/Intro_Java_Homework/P10_JarExecution/CardsPdf.jar
+
+
